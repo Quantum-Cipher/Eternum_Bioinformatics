@@ -1,18 +1,41 @@
-<<<<<<< HEAD
-# Eternum_Bioinformatics
-=======
-# Eternum Bioinformatics (ALS • Mycelium • Cosmos)
+# Eternum Bioinformatics 🌱🧠✨
 
->>>>>>> 6194c57 (Add project structure, code files, and documentation for Storacha)
-An open bioinformatics research framework connecting **ALS**, **Mycelium**, and **the Cosmos** through shared chemical & electrical signaling. This project features a *Trinity Engine* (Neuroplasticity • Mycelium Rerouting • Cosmic Entropy) and a **Blockchain Neuroplasticity** ledger (the *Eternum Liquidity Nexus*).
+**ALS • Mycelium • Cosmos**  
+Exploring the parallels of **chemical & electrical signaling** across fungal, neural, and cosmic systems — and embedding those insights into a **Blockchain Neuroplasticity Ledger** (the Eternum Liquidity Nexus).  
 
-## Goals
-- Explore parallels in signaling across neurons, mycelial networks, and cosmic phenomena.
-- Develop models to simulate regenerative neuroplasticity inspired by fungal networks.
-- Integrate a regenerative finance layer to support open research and clinical translation.
+---
 
-## Repository Structure
-- **src/**: Core Python modules for signal analysis, neuroplasticity modeling, and blockchain interfacing.
-- **docs/**: Project documentation and detailed technical references.
-- **data/**: Placeholder for processed signals and future datasets.
-- **notebooks/**: Interactive Jupyter notebooks for exploratory analysis and prototyping.
+## 🚀 Vision
+
+- **ALS as Miscommunication** — not only degeneration, but rerouting failures in chemical & electrical impulse networks.  
+- **Mycelium as Teacher** — fungal networks reroute, self-heal, and redistribute signals/nutrients with resilience.  
+- **Cosmos as Mirror** — stars and entropy cycles encode regenerative patterns beyond biological scale.  
+- **Blockchain Neuroplasticity** — an adaptive, transparent ledger to fund and log regenerative research.  
+
+Together, these form the **Trinity Engine**:  
+🌱 *Mycelium AI* • 🧠 *Brain AI* • ✨ *Stars AI*  
+
+---
+
+## 📂 Repository Structure
+
+- **src/**  
+  Core Python modules for signal analysis, neuroplasticity modeling, and blockchain interfacing.  
+- **docs/**  
+  Documentation for each module (`signal_analysis.md`, `neuroplasticity.md`, `blockchain_link.md`).  
+- **data/**  
+  Placeholder for raw and processed signal data.  
+- **notebooks/**  
+  Jupyter notebooks for exploratory analysis and visualizations.  
+- **tests/**  
+  Unit tests to ensure reproducibility.  
+
+---
+
+## 🛠 Quickstart
+
+Clone the repo:
+
+```bash
+git clone https://github.com/Quantum-Cipher/Eternum_Bioinformatics.git
+cd Eternum_Bioinformatics
