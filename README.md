@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Eternum_Bioinformatics
+=======
+# Eternum Bioinformatics (ALS • Mycelium • Cosmos)
+
+>>>>>>> 6194c57 (Add project structure, code files, and documentation for Storacha)
 An open bioinformatics research framework connecting **ALS**, **Mycelium**, and **the Cosmos** through shared chemical & electrical signaling. This project features a *Trinity Engine* (Neuroplasticity • Mycelium Rerouting • Cosmic Entropy) and a **Blockchain Neuroplasticity** ledger (the *Eternum Liquidity Nexus*).
 
 ## Goals
